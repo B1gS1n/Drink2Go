@@ -1,7 +1,7 @@
 {
-  "name": "{{projectName}}",
+  "name": "drink2go",
   "private": true,
-  "description": "Личный проект «{{projectTitle}}» от HTML Academy",
+  "description": "Личный проект «Drink2Go» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.0.0",
     "autoprefixer": "10.4.0",
@@ -37,7 +37,7 @@
     "source/sass/**/*.scss"
   ],
   "engines": {
-    "node": "^16"
+    "node": "^12"
   },
   "type": "module"
 }
